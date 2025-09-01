@@ -1,9 +1,0 @@
-Cada grupo debe elaborar además un PPT con la propuesta de proyecto, que deberá incluir los siguientes puntos:
-
-Nombre del Proyecto
-Problemática
-Solución propuesta
-Tecnologías trabajadas
-Metodología de trabajo (debe ser Ágil)
-Roles del equipo
-Propuesta inicial de base de datos
